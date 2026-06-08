@@ -1,27 +1,38 @@
 # Hi 👋, I'm Akhilesh Kalme
-### 🚀 Data Engineer | AI Automation Specialist | Web Scraping Expert
+# I'm a Full-Stack Developer! 👋
 
-I specialize in building robust data pipelines, navigating complex web structures, and integrating AI to solve real-world automation challenges.
+A passionate Full-Stack Developer and B.Tech Computer Science graduate who loves building end-to-end web applications, fast prototyping, and turning ideas into production-ready software.
 
 ---
 
-### 🛠 Technical Toolbox
+### 🚀 About Me
+- 🎓 **Education:** B.Tech in Computer Science & Engineering (2021 - 2025)
+- 💻 **Core Focus:** Full-Stack Web Development, Scalable Architectures, and Security
+- 🛠️ **Mindset:** Building products, writing clean code, and fast shipping
 
-| Category | Tools & Technologies |
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
 | :--- | :--- |
-| **Scraping** | Selenium, BeautifulSoup, Playwright, Scrapy, Proxy Management |
-| **AI & LLMs** | OpenAI API, LangChain, Prompt Engineering, Automation Frameworks |
-| **Data Engineering** | Python (Advanced), Pandas, NumPy, SQL, ETL Pipelines |
-| **Output Formats** | JSON, CSV, Google Sheets API, Database Integration |
+| **Languages** | Python, JavaScript (ES6+), HTML5, CSS3 |
+| **Backend Frameworks** | Django, Node.js, Express |
+| **Frontend Libraries** | React.js |
+| **Databases** | PostgreSQL, MySQL, SQLite |
+| **DevOps & Tools** | Git, GitHub, VS Code |
 
 ---
 
-### 🔭 Current Focus
-- **Advanced Scraping:** Extracting data from dynamic JS-heavy sites (Infinite scroll, AJAX).
-- **AI Integration:** Using LLMs to clean, normalize, and validate unstructured data.
-- **Independence:** Troubleshooting complex HTML structures and archived pages autonomously.
+### 📁 Projects & What I Build
+- **SaaS Products:** Experience in building zero-knowledge encrypted platforms and fast-prototyped web applications.
+- **Security Tools:** Developing automated scanners (API keys/secrets scanners) and handling secure data workflows.
+- **AI Automation:** Integrating LLMs and building AI-driven automation workflows into modern web frameworks.
 
 ---
-### 📫 Connect with me
+
+### 📬 Connect with Me
 - **LinkedIn:** www.linkedin.com/in/akhilesh-kalme-30257b218
-- **Email:** akhileshkalme476@gmail.com
+- **Portfolio / Website:** [yourwebsite.com](https://yourwebsite.com)
+
+*"An engineer by qualification, a product builder by heart."*
