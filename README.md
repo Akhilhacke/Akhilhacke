@@ -34,5 +34,6 @@ A passionate Full-Stack Developer and B.Tech Computer Science graduate who loves
 ### 📬 Connect with Me
 - **LinkedIn:** www.linkedin.com/in/akhilesh-kalme-30257b218
 - **Portfolio / Website:** https://akhileshportfolio-rho.vercel.app/
+- github.io  https://akhilhacke.github.io/akhilesh.portfolio/
 
 *"An engineer by qualification, a product builder by heart."*
